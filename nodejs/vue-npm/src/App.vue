@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <HelloWorld msg="Powered By Paketo Buildpacks"/>
+    <HelloWorld msg="BizflyCloud App Engine"/>
   </div>
 </template>
 
